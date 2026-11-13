@@ -1,0 +1,17 @@
+---
+title: '## Planned Analyses, Visualizations, and Coding Challenges'
+output: html_document
+date: "2026-11-13"
+---
+
+We propose a cross-sectional ecological study using NYC neighborhoods as the unit of analysis.
+
+1. **Data cleaning and integration:** Filter CDC PLACES data to NYC's five counties, aggregate census tract-level health estimates to NTAs using appropriate population weights where available, and merge with green space accessibility and poverty indicators.
+
+2. **Descriptive and spatial analyses:** Create choropleth maps of green space accessibility, poverty, depression, asthma, and hypertension prevalence. Compare neighborhood patterns across boroughs.
+
+3. **Exploratory association analyses:** Generate scatterplots with regression lines, calculate neighborhood-level correlations, and compare health outcomes across categories of green space accessibility and poverty.
+
+4. **Regression analyses:** Use multiple linear regression to examine associations between green space accessibility and each health outcome (depression, asthma, and hypertension), before and after adjusting for neighborhood poverty.
+
+Analyses will use R packages including `tidyverse`, `ggplot2`, and `sf`. Anticipated coding challenges include harmonizing geographic identifiers, aggregating modeled prevalence estimates, and generating reproducible spatial visualizations.
