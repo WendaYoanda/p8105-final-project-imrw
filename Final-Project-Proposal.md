@@ -1,0 +1,44 @@
+Final Project Proposal
+================
+By Irene Wen, Maxwell J Dooley, Ryan Kao, and Wenda Yoanda
+
+### Title of Proposal:
+
+“Green Space Accessibility and Health Disparities Across New York City
+Neighborhoods”
+
+## Group Members
+
+- Irene Wen (hyw2105)
+- Maxwell J Dooley (mjd2283)
+- Ryan Kao (rmk2196)
+- Wenda Yoanda (wy2486)
+
+## Motivation
+
+Access to urban green spaces can promote physical activity, social
+interaction, and psychological well-being. However, access to green
+spaces may not be equally distributed across neighborhoods with
+different socioeconomic characteristics.
+
+New York City provides an opportunity to investigate these disparities
+using publicly available neighborhood-level data. This project aims to
+explore whether green space accessibility varies across NYC
+neighborhoods and whether differences in accessibility are associated
+with the prevalence of depression and chronic conditions, including
+asthma and hypertension. We also aim to examine whether neighborhood
+socioeconomic characteristics help explain these relationships.
+
+## Research Questions
+
+1.  **Equity in green space accessibility:** Is green space
+    accessibility equitably distributed across NYC neighborhoods? How
+    does accessibility differ by borough and neighborhood poverty level?
+
+2.  **Green space accessibility and health outcomes:** Is lower green
+    space accessibility associated with higher estimated prevalence of
+    depression, asthma, and hypertension?
+
+3.  **Role of socioeconomic conditions:** Do associations between green
+    space accessibility and health outcomes persist after adjusting for
+    neighborhood poverty?
