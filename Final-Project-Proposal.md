@@ -84,7 +84,7 @@ Discussion
 Complete: 
 Webpage, Narrated Screencast
 
-December 4-12, 2026
+##December 4-12, 2026
 Buffer time to finalize, revise/ edit any changes for the report, 
 webpage and screencast
 
