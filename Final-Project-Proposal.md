@@ -63,5 +63,36 @@ data processing and analyses, and a project website featuring maps, statistical
 visualizations, and key findings. We will also produce a two-minute narrated 
 screencast summarizing the project.
 
+## Timeline
+- Will divide up steps between group members
+
+##November 13, 2026
+Submit proposal
+
+##November 14-20, 2026
+Complete:
+Identify and assess datasets
+Data collection and cleaning
+Exploratory analysis
+
+##November 21-27, 2026
+Complete:
+Additional analysis + Visualizations + regression models
+Discussion
+
+##November 28 - December 4, 2026
+Complete: 
+Webpage, Narrated Screencast
+
+December 4-12, 2026
+Buffer time to finalize, revise/ edit any changes for the report, 
+webpage and screencast
+
+
+
+
+
+
+
 
 
