@@ -45,25 +45,25 @@ A reproducible GitHub repository, a written R Markdown report documenting data p
 ## Timeline
 - Will divide up steps between group members
 
-##November 13, 2026
+## November 13, 2026
 Submit proposal
 
-##November 14-20, 2026
+## November 14-20, 2026
 Complete:
 Identify and assess datasets
 Data collection and cleaning
 Exploratory analysis
 
-##November 21-27, 2026
+## November 21-27, 2026
 Complete:
 Additional analysis + Visualizations + regression models
 Discussion
 
-##November 28 - December 4, 2026
+## November 28 - December 4, 2026
 Complete: 
 Webpage, Narrated Screencast
 
-##December 4-12, 2026
+## December 4-12, 2026
 Buffer time to finalize, revise/ edit any changes for the report, 
 webpage and screencast
 
