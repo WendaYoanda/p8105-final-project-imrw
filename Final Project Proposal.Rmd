@@ -37,33 +37,38 @@ New York City provides an opportunity to investigate these disparities using pub
 
 - **NYC Department of City Planning:** Geographic crosswalks and neighborhood boundaries for integrating census tract and NTA data and producing spatial visualizations.
 
+## Planned Analyses, Visualizations, and Coding Challenges
+
+We propose a cross-sectional ecological study using NYC neighborhoods as the unit of analysis.
+
+1. **Data cleaning and integration:** Filter CDC PLACES data to NYC's five counties, aggregate census tract-level health estimates to NTAs using appropriate population weights where available, and merge with green space accessibility and poverty indicators.
+
+2. **Descriptive and spatial analyses:** Create choropleth maps of green space accessibility, poverty, depression, asthma, and hypertension prevalence. Compare neighborhood patterns across boroughs.
+
+3. **Exploratory association analyses:** Generate scatterplots with regression lines, calculate neighborhood-level correlations, and compare health outcomes across categories of green space accessibility and poverty.
+
+4. **Regression analyses:** Use multiple linear regression to examine associations between green space accessibility and each health outcome (depression, asthma, and hypertension), before and after adjusting for neighborhood poverty.
+
+Analyses will use R packages including `tidyverse`, `ggplot2`, and `sf`. Anticipated coding challenges include harmonizing geographic identifiers, aggregating modeled prevalence estimates, and generating reproducible spatial visualizations.
 
 ## Intended Final Products
 
-A reproducible GitHub repository, a written R Markdown report documenting data processing and analyses, and a project website featuring maps, statistical visualizations, and key findings. We will also produce a two-minute narrated screencast summarizing the project.
+Our final deliverables will include:
 
-## Timeline
-- Will divide up steps between group members
+- A reproducible GitHub repository containing data processing and analysis code.
+- A written R Markdown report documenting data sources, methods, analyses, and findings.
+- A project website featuring interactive or static maps, statistical visualizations, and key findings.
+- A two-minute narrated screencast summarizing the project for a general audience.
 
-## November 13, 2026
-Submit proposal
 
-## November 14-20, 2026
-Complete:
-Identify and assess datasets
-Data collection and cleaning
-Exploratory analysis
+## Planned Timeline
 
-## November 21-27, 2026
-Complete:
-Additional analysis + Visualizations + regression models
-Discussion
+| Timeline | Planned Activities |
+|:---------|:-------------------|
+| November 13, 2026 | Submit project proposal and register team. |
+| November 14–20, 2026 | Identify and assess datasets; collect and clean data; begin exploratory analyses; attend project review meeting. |
+| November 21–27, 2026 | Complete exploratory analyses, visualizations, regression models, and preliminary interpretation of findings. |
+| November 28–December 4, 2026 | Draft final report; develop project website; prepare narrated screencast. |
+| December 5–12, 2026 | Review and refine analyses, report, website, and screencast; submit final deliverables. |
 
-## November 28 - December 4, 2026
-Complete: 
-Webpage, Narrated Screencast
-
-## December 4-12, 2026
-Buffer time to finalize, revise/ edit any changes for the report, 
-webpage and screencast
 
