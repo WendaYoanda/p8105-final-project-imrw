@@ -42,3 +42,16 @@ socioeconomic characteristics help explain these relationships.
 3.  **Role of socioeconomic conditions:** Do associations between green
     space accessibility and health outcomes persist after adjusting for
     neighborhood poverty?
+
+## Anticipated Data Sources
+
+- **NYC Environment & Health Data Portal:** Neighborhood-level park
+  accessibility (2023) and poverty indicators (2019–2023), measured at
+  the Neighborhood Tabulation Area (NTA) level.
+
+- **CDC PLACES (2025 release):** Census tract-level modeled estimates of
+  adult depression, current asthma, and high blood pressure prevalence.
+
+- **NYC Department of City Planning:** Geographic crosswalks and
+  neighborhood boundaries for integrating census tract and NTA data and
+  producing spatial visualizations.
