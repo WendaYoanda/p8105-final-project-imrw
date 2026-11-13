@@ -61,8 +61,8 @@ socioeconomic characteristics help explain these relationships.
 We propose a cross-sectional ecological study using NYC neighborhoods as
 the unit of analysis.
 
-1.  **Data cleaning and integration:** Filter CDC PLACES data to NYC’s
-    five counties, aggregate census tract-level health estimates to NTAs
+1.  **Data cleaning and integration:** Filter CDC PLACES data to NYC’s 5
+    counties, aggregate census tract-level health estimates to NTAs
     using appropriate population weights where available, and merge with
     green space accessibility and poverty indicators.
 

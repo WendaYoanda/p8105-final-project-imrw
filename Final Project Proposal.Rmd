@@ -41,7 +41,7 @@ New York City provides an opportunity to investigate these disparities using pub
 
 We propose a cross-sectional ecological study using NYC neighborhoods as the unit of analysis.
 
-1. **Data cleaning and integration:** Filter CDC PLACES data to NYC's five counties, aggregate census tract-level health estimates to NTAs using appropriate population weights where available, and merge with green space accessibility and poverty indicators.
+1. **Data cleaning and integration:** Filter CDC PLACES data to NYC's 5 counties, aggregate census tract-level health estimates to NTAs using appropriate population weights where available, and merge with green space accessibility and poverty indicators.
 
 2. **Descriptive and spatial analyses:** Create choropleth maps of green space accessibility, poverty, depression, asthma, and hypertension prevalence. Compare neighborhood patterns across boroughs.
 
