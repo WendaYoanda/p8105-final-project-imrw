@@ -55,3 +55,13 @@ socioeconomic characteristics help explain these relationships.
 - **NYC Department of City Planning:** Geographic crosswalks and
   neighborhood boundaries for integrating census tract and NTA data and
   producing spatial visualizations.
+  
+## Intended Final Products
+
+A reproducible GitHub repository, a written R Markdown report documenting
+data processing and analyses, and a project website featuring maps, statistical
+visualizations, and key findings. We will also produce a two-minute narrated 
+screencast summarizing the project.
+
+
+
